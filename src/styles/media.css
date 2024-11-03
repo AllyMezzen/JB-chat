@@ -1,0 +1,42 @@
+@media (max-width: 1000px) {
+
+    .chat-container {
+        max-width: 80%;
+    }
+
+    .message-greeting_text {
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 700px) {
+
+    .chat-container {
+        max-width: 90%;
+    }
+
+    .message-greeting_text {
+        max-width: 120px;
+        font-size: 0.8rem;
+    }
+
+    .message-greeting_img {
+        max-width: 30%;
+    }
+
+}
+
+@media (max-width: 400px) {
+
+    .chat-container {
+        max-width: 100%;
+    }
+
+    .message-greeting_img {
+        max-width: 40%;
+    }
+
+    .input-container {
+        gap: 0;
+    }
+}
