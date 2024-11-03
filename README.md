@@ -4,7 +4,7 @@
 
 ![Screenshot of a visual interface of an AI Friend Chat, depicting some of the textual interactions](public/chat-interface.png)
 
-This chat-like web-interface is designed with a purpose of communication with ChatGPT 3.5. 
+This chat-like web-interface is designed with a purpose of communication with **ChatGPT 3.5**. 
 
 The "AI Friend" app is a simple chat consisting of:
 1. Window with all messages displayed.
@@ -17,7 +17,7 @@ The app itself is adaptive, functional and can be used for its purpose.
 
 With this chat it is possible to:
 - "chat" with ChatGPT
-- receive markdown-formated answers
+- receive **markdown-formated answers**
 - enjoy app's unique design and a cute furry mascot 🐱
 
 ## How to get started
